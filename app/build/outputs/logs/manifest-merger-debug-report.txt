@@ -1,0 +1,289 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:databinding-adapters:4.1.2] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/eab7438d6f5c5ca32a1fbcf7ad880069/databinding-adapters-4.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.1.2] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/11fa7de1c058a807b8a9cd992cec1cad/databinding-runtime-4.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:4.1.2] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/2f369b9ee52cd87eef9d91411bf33395/viewbinding-4.1.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/440efe825f3ef7b2204f24b28fdddcad/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/5e95008db8fba446eb37c6a907bcfe23/fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/aaca6a6fae8e9c07555b604f6215b63f/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/7c3e762b2ed9a80df06d0733ccf3a8d6/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/ec5b84df3b9e263bb8ca2b9ffc2a070d/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3d693e2b0da7a609232e3620a69c63d5/activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/e8a72bda444eff1fe293580cf323dfb2/core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/368c675b6522768720b04244d41931a7/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/b64a8570aaa54831d6e63e7968936900/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/119b926af776f7e2951dd03738e6f19f/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/70b6b04361e2f3fcd2b6574b41e4b36f/room-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/01bcc7507e42f2db83126144f0b80ae0/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d39e9853b045b2c52a5f94536584b3cf/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/20d8c46cb0b6cfd53fec01f3763ce3b6/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/da18242d997e20404435c18701377d2b/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3c71a3321d0e4caa2601d5d406d9eb47/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/780ba5103dcec6ffef1f44095df98a5a/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/44eaa4269cda696b9b290ac3155d0293/timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.dagger:hilt-android:2.35] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/69bd9ba43e970fdc120938e3b610ffec/hilt-android-2.35/AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/1c56a59728eacfb1a8be2e1235c2b941/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/1e9164dbaf310c0766f0e25b4f7cf8bf/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/51221c74f71d99c27bfb8a4eb00df580/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/824b332f7a47eb09449528b6c26f59e5/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/19c5db84322245b96e43df80442b1d08/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/cce9bc1e73ce9984a2dda1ac252eb2c1/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/f039415065cfa753cf0eccfda62b49a2/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d0e02f197af21249210e2393316bde6c/room-runtime-2.3.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3bb0dd6b0088762d2f437e5a262eb827/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/320f0e107b4b0bd9891d8018e6acaa43/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a8a1bebc24ebb5212c120178e7cc8428/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/20e2c227c29f85baab77ee5fb4bf622d/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/6f0a838b9689e2e39792d103359b1041/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/bd85e0865fb4b1e88cf4a4a6e7b2d99e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/024b9b4bd78fb42d63534a69a62c536b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/bf7009568b9a8e8be3fd5045d993bdd5/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/cadacca38f7daeb938f67c56b3b0d50a/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d039b59906ab5ab288693eb0926012b8/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/c77d64562e94f1b159284cae7bf1b2dd/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/df01361fc8e0ca5dfc1d0abed9780000/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/6dc7706f952ab9e5c6002e4ca5053790/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/0cae2084cb35bd63702a4da5b01bb4de/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a5aa98c6e889f88b583e9b7ab9bf8cc1/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/68cd73124398ffb3ddc3be5b4c76a9f6/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/c571c980a70e7dc5b2c7efd79dab79bc/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/66ae25dd4109055564df53884b9bda43/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a11db4cfb2e5246a5d1730cdf3534912/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/35ba32ca9ec580fb693d8f28fa6de277/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a01f017e30722ae037c57f9bb8370a09/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d027075f0e6f9ed63e4313604c3b1eb7/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/59ab43bc880275ef0871d9ce5724d678/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/353f7e909ec0080969fd9eb1733ba9f3/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/8af65d006efb290480bfea0a1b0170ca/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/e28c7461e80d66fd624e6c9f71d015f1/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/cfe9107c04e662bb6eda001950ea2630/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/65feb9d865e318770cff1d62428303de/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/f45a9274f371a15341360467986538cd/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/9e9718eaf89f8dafa2c74186ab4f632e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3dabd4266a588278a8c3e7d5a8e1ce16/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/ebf935900904eb37a4dc0bac19624719/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/33412f96161c86f22ddc0ff2e20676ea/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.35] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3e796887be46c0e8c04ea54d25181d5a/dagger-lint-aar-2.35/AndroidManifest.xml:16:1-19:12
+INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/20d8c46cb0b6cfd53fec01f3763ce3b6/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/20d8c46cb0b6cfd53fec01f3763ce3b6/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/da18242d997e20404435c18701377d2b/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/da18242d997e20404435c18701377d2b/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/44eaa4269cda696b9b290ac3155d0293/timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/44eaa4269cda696b9b290ac3155d0293/timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/1c56a59728eacfb1a8be2e1235c2b941/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/1c56a59728eacfb1a8be2e1235c2b941/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d0e02f197af21249210e2393316bde6c/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d0e02f197af21249210e2393316bde6c/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.5.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/0cae2084cb35bd63702a4da5b01bb4de/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/0cae2084cb35bd63702a4da5b01bb4de/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/8af65d006efb290480bfea0a1b0170ca/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/8af65d006efb290480bfea0a1b0170ca/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/cfe9107c04e662bb6eda001950ea2630/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/cfe9107c04e662bb6eda001950ea2630/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/0cae2084cb35bd63702a4da5b01bb4de/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:14:9-47
+	android:name
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:8:9-40
+activity#com.example.android.nasa_apod.ui.MainActivity
+ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:name
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:16:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.1.2] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/eab7438d6f5c5ca32a1fbcf7ad880069/databinding-adapters-4.1.2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.1.2] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/eab7438d6f5c5ca32a1fbcf7ad880069/databinding-adapters-4.1.2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.2] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/11fa7de1c058a807b8a9cd992cec1cad/databinding-runtime-4.1.2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.2] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/11fa7de1c058a807b8a9cd992cec1cad/databinding-runtime-4.1.2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.2] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/2f369b9ee52cd87eef9d91411bf33395/viewbinding-4.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.2] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/2f369b9ee52cd87eef9d91411bf33395/viewbinding-4.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/440efe825f3ef7b2204f24b28fdddcad/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/440efe825f3ef7b2204f24b28fdddcad/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/5e95008db8fba446eb37c6a907bcfe23/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/5e95008db8fba446eb37c6a907bcfe23/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/aaca6a6fae8e9c07555b604f6215b63f/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/aaca6a6fae8e9c07555b604f6215b63f/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/7c3e762b2ed9a80df06d0733ccf3a8d6/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/7c3e762b2ed9a80df06d0733ccf3a8d6/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/ec5b84df3b9e263bb8ca2b9ffc2a070d/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/ec5b84df3b9e263bb8ca2b9ffc2a070d/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3d693e2b0da7a609232e3620a69c63d5/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3d693e2b0da7a609232e3620a69c63d5/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/e8a72bda444eff1fe293580cf323dfb2/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/e8a72bda444eff1fe293580cf323dfb2/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/368c675b6522768720b04244d41931a7/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/368c675b6522768720b04244d41931a7/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/b64a8570aaa54831d6e63e7968936900/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/b64a8570aaa54831d6e63e7968936900/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/119b926af776f7e2951dd03738e6f19f/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/119b926af776f7e2951dd03738e6f19f/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/70b6b04361e2f3fcd2b6574b41e4b36f/room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/70b6b04361e2f3fcd2b6574b41e4b36f/room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/01bcc7507e42f2db83126144f0b80ae0/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/01bcc7507e42f2db83126144f0b80ae0/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d39e9853b045b2c52a5f94536584b3cf/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d39e9853b045b2c52a5f94536584b3cf/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/20d8c46cb0b6cfd53fec01f3763ce3b6/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/20d8c46cb0b6cfd53fec01f3763ce3b6/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/da18242d997e20404435c18701377d2b/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/da18242d997e20404435c18701377d2b/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3c71a3321d0e4caa2601d5d406d9eb47/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3c71a3321d0e4caa2601d5d406d9eb47/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/780ba5103dcec6ffef1f44095df98a5a/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/780ba5103dcec6ffef1f44095df98a5a/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/44eaa4269cda696b9b290ac3155d0293/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/44eaa4269cda696b9b290ac3155d0293/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.google.dagger:hilt-android:2.35] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/69bd9ba43e970fdc120938e3b610ffec/hilt-android-2.35/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.35] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/69bd9ba43e970fdc120938e3b610ffec/hilt-android-2.35/AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/1c56a59728eacfb1a8be2e1235c2b941/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/1c56a59728eacfb1a8be2e1235c2b941/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/1e9164dbaf310c0766f0e25b4f7cf8bf/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/1e9164dbaf310c0766f0e25b4f7cf8bf/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/51221c74f71d99c27bfb8a4eb00df580/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/51221c74f71d99c27bfb8a4eb00df580/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/824b332f7a47eb09449528b6c26f59e5/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/824b332f7a47eb09449528b6c26f59e5/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/19c5db84322245b96e43df80442b1d08/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/19c5db84322245b96e43df80442b1d08/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/cce9bc1e73ce9984a2dda1ac252eb2c1/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/cce9bc1e73ce9984a2dda1ac252eb2c1/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/f039415065cfa753cf0eccfda62b49a2/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/f039415065cfa753cf0eccfda62b49a2/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d0e02f197af21249210e2393316bde6c/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d0e02f197af21249210e2393316bde6c/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3bb0dd6b0088762d2f437e5a262eb827/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3bb0dd6b0088762d2f437e5a262eb827/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/320f0e107b4b0bd9891d8018e6acaa43/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/320f0e107b4b0bd9891d8018e6acaa43/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a8a1bebc24ebb5212c120178e7cc8428/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a8a1bebc24ebb5212c120178e7cc8428/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/20e2c227c29f85baab77ee5fb4bf622d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/20e2c227c29f85baab77ee5fb4bf622d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/6f0a838b9689e2e39792d103359b1041/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/6f0a838b9689e2e39792d103359b1041/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/bd85e0865fb4b1e88cf4a4a6e7b2d99e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/bd85e0865fb4b1e88cf4a4a6e7b2d99e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/024b9b4bd78fb42d63534a69a62c536b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/024b9b4bd78fb42d63534a69a62c536b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/bf7009568b9a8e8be3fd5045d993bdd5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/bf7009568b9a8e8be3fd5045d993bdd5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/cadacca38f7daeb938f67c56b3b0d50a/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/cadacca38f7daeb938f67c56b3b0d50a/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d039b59906ab5ab288693eb0926012b8/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d039b59906ab5ab288693eb0926012b8/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/c77d64562e94f1b159284cae7bf1b2dd/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/c77d64562e94f1b159284cae7bf1b2dd/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/df01361fc8e0ca5dfc1d0abed9780000/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/df01361fc8e0ca5dfc1d0abed9780000/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/6dc7706f952ab9e5c6002e4ca5053790/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/6dc7706f952ab9e5c6002e4ca5053790/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/0cae2084cb35bd63702a4da5b01bb4de/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/0cae2084cb35bd63702a4da5b01bb4de/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a5aa98c6e889f88b583e9b7ab9bf8cc1/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a5aa98c6e889f88b583e9b7ab9bf8cc1/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/68cd73124398ffb3ddc3be5b4c76a9f6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/68cd73124398ffb3ddc3be5b4c76a9f6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/c571c980a70e7dc5b2c7efd79dab79bc/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/c571c980a70e7dc5b2c7efd79dab79bc/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/66ae25dd4109055564df53884b9bda43/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/66ae25dd4109055564df53884b9bda43/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a11db4cfb2e5246a5d1730cdf3534912/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a11db4cfb2e5246a5d1730cdf3534912/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/35ba32ca9ec580fb693d8f28fa6de277/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/35ba32ca9ec580fb693d8f28fa6de277/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a01f017e30722ae037c57f9bb8370a09/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/a01f017e30722ae037c57f9bb8370a09/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d027075f0e6f9ed63e4313604c3b1eb7/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d027075f0e6f9ed63e4313604c3b1eb7/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/59ab43bc880275ef0871d9ce5724d678/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/59ab43bc880275ef0871d9ce5724d678/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/353f7e909ec0080969fd9eb1733ba9f3/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/353f7e909ec0080969fd9eb1733ba9f3/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/8af65d006efb290480bfea0a1b0170ca/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/8af65d006efb290480bfea0a1b0170ca/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/e28c7461e80d66fd624e6c9f71d015f1/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/e28c7461e80d66fd624e6c9f71d015f1/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/cfe9107c04e662bb6eda001950ea2630/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/cfe9107c04e662bb6eda001950ea2630/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/65feb9d865e318770cff1d62428303de/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/65feb9d865e318770cff1d62428303de/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/f45a9274f371a15341360467986538cd/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/f45a9274f371a15341360467986538cd/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/9e9718eaf89f8dafa2c74186ab4f632e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/9e9718eaf89f8dafa2c74186ab4f632e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3dabd4266a588278a8c3e7d5a8e1ce16/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3dabd4266a588278a8c3e7d5a8e1ce16/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/ebf935900904eb37a4dc0bac19624719/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/ebf935900904eb37a4dc0bac19624719/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/33412f96161c86f22ddc0ff2e20676ea/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/33412f96161c86f22ddc0ff2e20676ea/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.35] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3e796887be46c0e8c04ea54d25181d5a/dagger-lint-aar-2.35/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.35] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/3e796887be46c0e8c04ea54d25181d5a/dagger-lint-aar-2.35/AndroidManifest.xml:18:3-42
+INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d0e02f197af21249210e2393316bde6c/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d0e02f197af21249210e2393316bde6c/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d0e02f197af21249210e2393316bde6c/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/atamrak/.gradle/caches/transforms-2/files-2.1/d0e02f197af21249210e2393316bde6c/room-runtime-2.3.0/AndroidManifest.xml:26:13-74

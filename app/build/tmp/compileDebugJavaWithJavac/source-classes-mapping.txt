@@ -1,0 +1,165 @@
+com/example/android/nasa_apod/ui/main/MainViewModel_MembersInjector.java
+ com.example.android.nasa_apod.ui.main.MainViewModel_MembersInjector
+com/example/android/nasa_apod/ui/main/MainFragment_GeneratedInjector.java
+ com.example.android.nasa_apod.ui.main.MainFragment_GeneratedInjector
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/android/nasa_apod/domain/db/AppDatabase_Impl.java
+ com.example.android.nasa_apod.domain.db.AppDatabase_Impl
+ com.example.android.nasa_apod.domain.db.AppDatabase_Impl$1
+com/example/android/nasa_apod/ui/MainActivity_GeneratedInjector.java
+ com.example.android.nasa_apod.ui.MainActivity_GeneratedInjector
+com/example/android/nasa_apod/ui/main/MainViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.example.android.nasa_apod.ui.main.MainViewModel_HiltModules_KeyModule_ProvideFactory
+ com.example.android.nasa_apod.ui.main.MainViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/example/android/nasa_apod/BuildConfig.java
+ com.example.android.nasa_apod.BuildConfig
+com/example/android/nasa_apod/databinding/MainFragmentBinding.java
+ com.example.android.nasa_apod.databinding.MainFragmentBinding
+com/example/android/nasa_apod/ui/main/MainViewModel_HiltModules.java
+ com.example.android.nasa_apod.ui.main.MainViewModel_HiltModules
+ com.example.android.nasa_apod.ui.main.MainViewModel_HiltModules$BindsModule
+ com.example.android.nasa_apod.ui.main.MainViewModel_HiltModules$KeyModule
+com/example/android/nasa_apod/ui/main/MainViewModel_Factory.java
+ com.example.android.nasa_apod.ui.main.MainViewModel_Factory
+com/example/android/nasa_apod/Hilt_MainApplication.java
+ com.example.android.nasa_apod.Hilt_MainApplication
+ com.example.android.nasa_apod.Hilt_MainApplication$1
+hilt_aggregated_deps/_com_example_android_nasa_apod_ui_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_android_nasa_apod_ui_MainActivity_GeneratedInjector
+hilt_aggregated_deps/_com_example_android_nasa_apod_di_NetworkModule.java
+ hilt_aggregated_deps._com_example_android_nasa_apod_di_NetworkModule
+com/example/android/nasa_apod/di/RoomModule_ProvideApodDaoFactory.java
+ com.example.android.nasa_apod.di.RoomModule_ProvideApodDaoFactory
+com/example/android/nasa_apod/ui/main/Hilt_MainFragment.java
+ com.example.android.nasa_apod.ui.main.Hilt_MainFragment
+hilt_aggregated_deps/_com_example_android_nasa_apod_ui_main_MainViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_example_android_nasa_apod_ui_main_MainViewModel_HiltModules_KeyModule
+com/example/android/nasa_apod/databinding/ActivityMainBinding.java
+ com.example.android.nasa_apod.databinding.ActivityMainBinding
+hilt_aggregated_deps/_com_example_android_nasa_apod_ui_main_MainFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_android_nasa_apod_ui_main_MainFragment_GeneratedInjector
+com/example/android/nasa_apod/di/GlideRequest.java
+ com.example.android.nasa_apod.di.GlideRequest
+com/example/android/nasa_apod/di/RepoModule_ProvideApodRepositoryFactory.java
+ com.example.android.nasa_apod.di.RepoModule_ProvideApodRepositoryFactory
+com/example/android/nasa_apod/databinding/DetailFragmentBindingImpl.java
+ com.example.android.nasa_apod.databinding.DetailFragmentBindingImpl
+hilt_aggregated_deps/_com_example_android_nasa_apod_di_RepoModule.java
+ hilt_aggregated_deps._com_example_android_nasa_apod_di_RepoModule
+com/example/android/nasa_apod/DataBindingTriggerClass.java
+ com.example.android.nasa_apod.DataBindingTriggerClass
+com/example/android/nasa_apod/databinding/MainViewholderBindingImpl.java
+ com.example.android.nasa_apod.databinding.MainViewholderBindingImpl
+com/example/android/nasa_apod/di/GlideApp.java
+ com.example.android.nasa_apod.di.GlideApp
+com/bumptech/glide/GeneratedRequestManagerFactory.java
+ com.bumptech.glide.GeneratedRequestManagerFactory
+com/example/android/nasa_apod/MainApplication_GeneratedInjector.java
+ com.example.android.nasa_apod.MainApplication_GeneratedInjector
+com/bumptech/glide/GeneratedAppGlideModuleImpl.java
+ com.bumptech.glide.GeneratedAppGlideModuleImpl
+com/example/android/nasa_apod/di/GlideRequests.java
+ com.example.android.nasa_apod.di.GlideRequests
+com/example/android/nasa_apod/di/GlideOptions.java
+ com.example.android.nasa_apod.di.GlideOptions
+com/example/android/nasa_apod/ui/Hilt_MainActivity.java
+ com.example.android.nasa_apod.ui.Hilt_MainActivity
+ com.example.android.nasa_apod.ui.Hilt_MainActivity$1
+dagger/hilt/internal/aggregatedroot/codegen/_com_example_android_nasa_apod_MainApplication.java
+ dagger.hilt.internal.aggregatedroot.codegen._com_example_android_nasa_apod_MainApplication
+com/example/android/nasa_apod/databinding/AppBarMainBinding.java
+ com.example.android.nasa_apod.databinding.AppBarMainBinding
+com/example/android/nasa_apod/di/NetworkModule_ProvideApodServiceFactory.java
+ com.example.android.nasa_apod.di.NetworkModule_ProvideApodServiceFactory
+com/example/android/nasa_apod/MainApplication_HiltComponents.java
+ com.example.android.nasa_apod.MainApplication_HiltComponents
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ActivityC
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ActivityC$Builder
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ActivityCBuilderModule
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ActivityRetainedC
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ActivityRetainedC$Builder
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ActivityRetainedCBuilderModule
+ com.example.android.nasa_apod.MainApplication_HiltComponents$FragmentC
+ com.example.android.nasa_apod.MainApplication_HiltComponents$FragmentC$Builder
+ com.example.android.nasa_apod.MainApplication_HiltComponents$FragmentCBuilderModule
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ServiceC
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ServiceC$Builder
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ServiceCBuilderModule
+ com.example.android.nasa_apod.MainApplication_HiltComponents$SingletonC
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ViewC
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ViewC$Builder
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ViewCBuilderModule
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ViewModelC
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ViewModelC$Builder
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ViewModelCBuilderModule
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ViewWithFragmentC
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ViewWithFragmentC$Builder
+ com.example.android.nasa_apod.MainApplication_HiltComponents$ViewWithFragmentCBuilderModule
+com/example/android/nasa_apod/domain/repository/ApodRepositoryImpl_Factory.java
+ com.example.android.nasa_apod.domain.repository.ApodRepositoryImpl_Factory
+com/example/android/nasa_apod/domain/dao/ApodDao_Impl.java
+ com.example.android.nasa_apod.domain.dao.ApodDao_Impl
+ com.example.android.nasa_apod.domain.dao.ApodDao_Impl$1
+ com.example.android.nasa_apod.domain.dao.ApodDao_Impl$2
+ com.example.android.nasa_apod.domain.dao.ApodDao_Impl$3
+ com.example.android.nasa_apod.domain.dao.ApodDao_Impl$4
+ com.example.android.nasa_apod.domain.dao.ApodDao_Impl$5
+com/example/android/nasa_apod/DaggerMainApplication_HiltComponents_SingletonC.java
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$1
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCBuilder
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI$ViewWithFragmentCBuilder
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI$ViewWithFragmentCI
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCI
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCBuilder
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCImpl
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCImpl$SwitchingProvider
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$Builder
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ServiceCBuilder
+ com.example.android.nasa_apod.DaggerMainApplication_HiltComponents_SingletonC$ServiceCImpl
+dagger/hilt/internal/processedrootsentinel/codegen/_com_example_android_nasa_apod_MainApplication.java
+ dagger.hilt.internal.processedrootsentinel.codegen._com_example_android_nasa_apod_MainApplication
+com/example/android/nasa_apod/di/NetworkModule_ProvideApiKeyFactory.java
+ com.example.android.nasa_apod.di.NetworkModule_ProvideApiKeyFactory
+ com.example.android.nasa_apod.di.NetworkModule_ProvideApiKeyFactory$InstanceHolder
+com/example/android/nasa_apod/di/NetworkModule_ProvideRetrofitFactory.java
+ com.example.android.nasa_apod.di.NetworkModule_ProvideRetrofitFactory
+hilt_aggregated_deps/_com_example_android_nasa_apod_MainApplication_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_android_nasa_apod_MainApplication_GeneratedInjector
+com/example/android/nasa_apod/DataBinderMapperImpl.java
+ com.example.android.nasa_apod.DataBinderMapperImpl
+ com.example.android.nasa_apod.DataBinderMapperImpl$InnerBrLookup
+ com.example.android.nasa_apod.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/android/nasa_apod/di/RoomModule_ProvideDatabaseFactory.java
+ com.example.android.nasa_apod.di.RoomModule_ProvideDatabaseFactory
+com/example/android/nasa_apod/databinding/ContentMainBinding.java
+ com.example.android.nasa_apod.databinding.ContentMainBinding
+com/example/android/nasa_apod/di/NetworkModule_ProvideHttpClientFactory.java
+ com.example.android.nasa_apod.di.NetworkModule_ProvideHttpClientFactory
+ com.example.android.nasa_apod.di.NetworkModule_ProvideHttpClientFactory$InstanceHolder
+com/example/android/nasa_apod/databinding/MainFragmentBindingImpl.java
+ com.example.android.nasa_apod.databinding.MainFragmentBindingImpl
+hilt_aggregated_deps/_com_example_android_nasa_apod_di_RoomModule.java
+ hilt_aggregated_deps._com_example_android_nasa_apod_di_RoomModule
+com/example/android/nasa_apod/databinding/MainViewholderBinding.java
+ com.example.android.nasa_apod.databinding.MainViewholderBinding
+com/example/android/nasa_apod/di/NetworkModule_ProvideGsonFactory.java
+ com.example.android.nasa_apod.di.NetworkModule_ProvideGsonFactory
+ com.example.android.nasa_apod.di.NetworkModule_ProvideGsonFactory$InstanceHolder
+com/example/android/nasa_apod/databinding/DetailFragmentBinding.java
+ com.example.android.nasa_apod.databinding.DetailFragmentBinding
+hilt_aggregated_deps/_com_example_android_nasa_apod_ui_main_MainViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_example_android_nasa_apod_ui_main_MainViewModel_HiltModules_BindsModule
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/android/nasa_apod/BR.java
+ com.example.android.nasa_apod.BR

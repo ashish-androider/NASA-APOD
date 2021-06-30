@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/atamrak/Ashish/MyProjects/Github/New/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_fragment.xml",
+        "source": "/Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/res/layout/main_fragment.xml"
+    },
+    {
+        "merged": "/Users/atamrak/Ashish/MyProjects/Github/New/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/atamrak/Ashish/MyProjects/Github/New/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_bar_main.xml",
+        "source": "/Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/atamrak/Ashish/MyProjects/Github/New/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_viewholder.xml",
+        "source": "/Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/res/layout/main_viewholder.xml"
+    },
+    {
+        "merged": "/Users/atamrak/Ashish/MyProjects/Github/New/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/atamrak/Ashish/MyProjects/Github/New/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/detail_fragment.xml",
+        "source": "/Users/atamrak/Ashish/MyProjects/Github/New/app/src/main/res/layout/detail_fragment.xml"
+    }
+]

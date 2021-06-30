@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="raspberry_200">#D21F3C</color>
+    <color name="raspberry_500">#7E191B</color>
+    <color name="raspberry_700">#EA3C53</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_alpha">#59000000</color>
+    <color name="bluePrimary">#145996</color>
+</resources>
